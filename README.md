@@ -6,7 +6,7 @@
 
 <br>
 
-**햄스터-S**사용자들을 위한 [Python API Wiki](https://github.com/RobomationLAB/BeagleAPI_KR/wiki)입니다.
+**햄스터-S**사용자들을 위한 [Python API Wiki](https://github.com/RobomationLAB/Hamster-S_API_KR/wiki)입니다.
 
 
 이 문서는 로보메이션의 햄스터-S를 Python으로 프로그래밍하려는 사용자를 위한 라이브러리 API Guide입니다. 
