@@ -41,10 +41,10 @@
         </a>
     </summary>
 
-- [HamsterS](https://github.com/RobomationLAB/Hamster-S_API_KR/wiki/생성-및해제#hamsters)
-- [HamsterS(index)](https://github.com/RobomationLAB/Hamster-S_API_KR/wiki/생성-및해제#hamstersindex)
-- [HamsterS(port_name)](https://github.com/RobomationLAB/Hamster-S_API_KR/wiki/생성-및해제#hamstersport_name)
-- [HamsterS(index, port_name)](https://github.com/RobomationLAB/Hamster-S_API_KR/wiki/생성-및해제#hamstersindex-port_name)
+- [HamsterS](https://github.com/RobomationLAB/Hamster-S_API_KR/wiki/생성-및-해제#hamsters)
+- [HamsterS(index)](https://github.com/RobomationLAB/Hamster-S_API_KR/wiki/생성-및-해제#hamstersindex)
+- [HamsterS(port_name)](https://github.com/RobomationLAB/Hamster-S_API_KR/wiki/생성-및-해제#hamstersport_name)
+- [HamsterS(index, port_name)](https://github.com/RobomationLAB/Hamster-S_API_KR/wiki/생성-및-해제#hamstersindex-port_name)
 
 </details>
 
@@ -406,7 +406,7 @@
 
 - [open_gripper()](https://github.com/RobomationLAB/Hamster-S_API_KR/wiki/입출력모드#open_gripper)
 - [close_gripper()](https://github.com/RobomationLAB/Hamster-S_API_KR/wiki/입출력모드#close_gripper)
-- [release_gripper()](https://github.com/RobomationLAB/Hamster-S_API_KR/wiki/입출력모드#release-gripper)
+- [release_gripper()](https://github.com/RobomationLAB/Hamster-S_API_KR/wiki/입출력모드#release_gripper)
 
 </details>
 
